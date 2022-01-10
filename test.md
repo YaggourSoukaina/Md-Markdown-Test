@@ -1,4 +1,4 @@
-![rendered image description](relative/path/to/rendered_image. svg or png )
+![rendered image description](test/path/to/rendered_image. svg or png )
 <details>
   <summary>diagram source</summary>
   This details block is collapsed by default when viewed in GitHub. This hides the mermaid graph definition, while the rendered image
@@ -18,7 +18,7 @@ gantt
   
 </details>
 
-![rendered image description](relative/path/to/rendered_image. svg or png )
+![rendered image description](test/path/to/rendered_image. svg or png )
 
 gantt
     title A Gantt Diagram
