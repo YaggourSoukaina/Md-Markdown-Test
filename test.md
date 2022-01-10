@@ -4,7 +4,7 @@
 `render-md-mermaid` will pick up any Mermaid graph in Markdown files that is defined as:
 
 ~~~markdown
-![rendered image description](relative/path/to/test_image_rendered. svg or png )
+![rendered image description](test/demo/to/test_image. svg or png )
 <details>
   <summary>diagram source</summary>
   This details block is collapsed by default when viewed in GitHub. This hides the mermaid graph definition, while the rendered image
@@ -25,4 +25,4 @@ gantt
 </details>
 
 das ist das Bild:
-![rendered image description](relative/path/to/test_image_rendered.png)
+![rendered image description](test/demo/to/test_image.png)
