@@ -24,3 +24,5 @@ gantt
   
 </details>
 
+das ist das Bild:
+![rendered image description](relative/path/to/test_image_rendered.png)
