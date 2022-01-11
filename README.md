@@ -2,12 +2,7 @@
 
 `render-md-mermaid` will pick up any Mermaid graph in Markdown files that is defined as:
 
-~~~markdown
-
-The script will pick up the graph definition from the mermaid code block and render it to the image file and path specified in the
-image tag using [mermaid-cli](https://github.com/mermaid-js/mermaid-cli). The rendered image can be in svg or png format, whatever is specified will be generated. The result is displayed like this:
-
-![rendered image description](relative/path/to/test1_rendered_image.png)
+![rendered image description](relative/path/to/test2_rendered_image.png)
 <details>
   <summary>diagram source</summary>
   This details block is collapsed by default when viewed in GitHub.
