@@ -18,13 +18,12 @@ graph LR
     C -->|One| D[Laptop] 
     C -->|Two| E[iPhone] 
     C -->|Three| F[fa:fa-car Car]
-```     
-```mermaid
+  
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-```   
+```       
   
 </details>
 
