@@ -1,4 +1,4 @@
-![rendered image description](test/demo/to/imageA.png)
+![rendered image description](test/demo/to/Image.png)
 
 <details>
   <summary>diagram source</summary>
