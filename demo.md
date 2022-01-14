@@ -2,7 +2,7 @@
 
 `render-md-mermaid` will pick up any Mermaid graph in Markdown files that is defined as:
 
-![rendered image description](relative/path/test/test2_rendered_image.png)
+![rendered image description](relative/path/test/test3_rendered_image.png)
 <details>
   <summary>diagram source</summary>
   This details block is collapsed by default when viewed in GitHub.
@@ -12,19 +12,19 @@
 
   ```mermaid
 classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
- ```
-  
+    Class01 <|-- AveryLongClass : Cool
+    Class03 *-- Class04
+    Class05 o-- Class06
+    Class07 .. Class08
+    Class09 --> C2 : Where am i?
+    Class09 --* C3
+    Class09 --|> Class07
+    Class07 : equals()
+    Class07 : Object[] elementData
+    Class01 : size()
+    Class01 : int chimp
+    Class01 : int gorilla
+    Class08 <--> C2: Cool label
+```    
+
 </details>
