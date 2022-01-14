@@ -1,3 +1,5 @@
+
+
 ![rendered image description](test/demo/to/Image.png)
 
 <details>
@@ -6,10 +8,9 @@
   This hides the mermaid graph definition, while the rendered image
   linked above is shown.
   The details tag has to follow the image tag. (newlines allowed)
-  
-  ```mermaid
-  
-  sequenceDiagram
+
+```mermaid
+sequenceDiagram
     participant Alice
     participant Bob
     Alice->>John: Hello John, how are you?
@@ -20,7 +21,6 @@
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
-  
-  ```
-  
-  </details>
+ ``` 
+</details>
+
