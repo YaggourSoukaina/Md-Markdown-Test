@@ -12,10 +12,11 @@
 
   ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    F-->B;
+    G-->C;
+    P-->D;
+    S-->D;
+    T-->R;
 ```    
 
 </details>
