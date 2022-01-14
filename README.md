@@ -2,7 +2,7 @@
 
 `render-md-mermaid` will pick up any Mermaid graph in Markdown files that is defined as:
 
-![rendered image description](relative/path/to/test3_rendered_image.png)
+![rendered image description](relative/path/to/test3_rendered_image.svg)
 <details>
   <summary>diagram source</summary>
   This details block is collapsed by default when viewed in GitHub.
