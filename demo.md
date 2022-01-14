@@ -2,7 +2,7 @@
 
 `render-md-mermaid` will pick up any Mermaid graph in Markdown files that is defined as:
 
-![rendered image description](demo/test/to/imageF.png)
+![rendered image description](relative/path/test/test1_rendered_image.png)
 <details>
   <summary>diagram source</summary>
   This details block is collapsed by default when viewed in GitHub.
@@ -11,16 +11,12 @@
   The details tag has to follow the image tag. (newlines allowed)
 
   ```mermaid
-sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts <br/>prevail!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
- ```    
+graph TD;
+    F-->B;
+    G-->C;
+    P-->D;
+    S-->D;
+    T-->R;
+```    
+
 </details>
