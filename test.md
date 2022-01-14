@@ -2,7 +2,7 @@
 # Md-Markdown-Test
 
 
-![rendered image description](test/demo/to/image4.png)
+![rendered image description](test/demo/to/imageA.png)
 
 <details>
   <summary>diagram source</summary>
@@ -19,7 +19,13 @@ graph LR
     C -->|Two| E[iPhone] 
     C -->|Three| F[fa:fa-car Car]
 ```     
-
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```   
+  
 </details>
 
 
