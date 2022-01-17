@@ -44,7 +44,7 @@ graph TD;
 
 </details>
 
-![rendered image description](demoSY/path/to/rendered_image2.png)
+![rendered image description](demoSY/path/to/rendered_image3.png)
 <details>
   <summary>diagram source</summary>
   This details block is collapsed by default when viewed in GitHub.
